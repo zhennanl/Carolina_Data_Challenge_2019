@@ -1,4 +1,5 @@
 # Carolina Data Challenge 2019
+Team project for Carolina Data Challenge 2019 (Datathon at UNC-Chapel Hill)
 
 For the data challenge, we, as a team of 4, decided work on the data set about the crimes in Chapel Hill. We thought that it gave us the opportunity to apply our working knowledge in data visualization with Tableau and machine learning (K-means Clustering shown below) with python. K-means clustering is an unsupervised learning algorithm that finds clusters in a given data set.
 
